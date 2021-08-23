@@ -10,17 +10,13 @@ footer a {color:white;display:block;padding-left:5%;}
 .row>div.col-sm-12 {
     margin:1% 0;
 }
-
-
-@media only screen and (max-width:768px) {
+#search-field {
+    width: 22%;
+}
+@media only screen and (max-width:800px) {
     .col-sm-8 p {height:auto;}
     body {font-size: 14px}
 }
-@media only screen and (min-width:768px) {
-    p {height:120px;}
-    
-}
 @media only screen and (min-width:800px) {
-    p {height:120px;}
-    
+    p {height:120px;}    
 }
