@@ -17,7 +17,7 @@ footer a {color:white;display:block;padding-left:5%;}
     body {font-size: 14px}
 }
 @media only screen and (min-width:768px) {
-    p {height:100px;}
+    .row p {height:auto;}
     
 }
 @media only screen and (min-width:800px) {
