@@ -17,10 +17,10 @@ footer a {color:white;display:block;padding-left:5%;}
     body {font-size: 14px}
 }
 @media only screen and (min-width:768px) {
-    .row p {height:auto;}
+    .row p {height:120px;}
     
 }
 @media only screen and (min-width:800px) {
-    .row p {height:auto;}
+    .row p {height:120px;}
     
 }
