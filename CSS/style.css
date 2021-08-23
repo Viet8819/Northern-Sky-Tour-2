@@ -1,0 +1,26 @@
+* {box-sizing: border-box;}
+.row h3 {margin-top: 5px;}
+img {width:100%;}
+.row p {height:100px;}
+html {font-size: 100%;}
+body {font-size: 16px;}
+ul li {list-style: none;}
+h4 {font-weight:bold}
+footer a {color:white;display:block;padding-left:5%;}
+.row>div.col-sm-12 {
+    margin:1% 0;
+}
+
+
+@media only screen and (max-width:768px) {
+    .col-sm-8 p {height:auto;}
+    body {font-size: 14px}
+}
+@media only screen and (min-width:768px) {
+    p {height:100px;}
+    
+}
+@media only screen and (min-width:800px) {
+    p {height:100px;}
+    
+}
